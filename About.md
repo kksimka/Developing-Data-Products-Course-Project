@@ -8,7 +8,7 @@ Dataset for this application has been made available by the United States Enviro
 [annual_all_2014.zip](http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/annual_all_2014.zip).
 [annual_all_2013.zip](http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/annual_all_2013.zip)
 
-Source code of this application is available on the [GitHub](https://github.com/DataScienceSpecialization/courses/blob/master/09_DevelopingDataProducts/yhat/annual_all_2013.csv).
+Source code of this application is available on the [GitHub](https://github.com/kksimka/Developing-Data-Products-Course-Project/tree/gh-pages).
 
 
 
